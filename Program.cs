@@ -19,7 +19,6 @@ namespace TextToSpeech
         {
             try
             {
-
                 while (true)
                 {
                     // Clear window
@@ -84,11 +83,7 @@ namespace TextToSpeech
         private static void OpenNotePad()
         {
             Speak("opening notepad");
-
             Process.Start("notepad.exe");
         }
-
-        
-
     }
 }
