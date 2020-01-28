@@ -24,6 +24,8 @@ namespace TextToSpeech
                     // Clear window
                     Console.Clear();
 
+                    //Console.WriteLine($"Current Version: {}");
+
                     // Get text to say
                     Console.Write("\n Enter text to say: ");
                     string inputText = Console.ReadLine();
