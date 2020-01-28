@@ -9,3 +9,4 @@ C:\Users\evan\Desktop\Languages\C#\Misc Apps\TextToSpeech\obj\Release\TextToSpee
 C:\Users\evan\Desktop\Languages\C#\Misc Apps\TextToSpeech\bin\Release\TextToSpeech.exe.config
 C:\Users\evan\Desktop\Languages\C#\Misc Apps\TextToSpeech\bin\Release\TextToSpeech.exe
 C:\Users\evan\Desktop\Languages\C#\Misc Apps\TextToSpeech\bin\Release\TextToSpeech.pdb
+C:\Users\evan\Desktop\Languages\C#\Misc Apps\TextToSpeech\obj\Release\TextToSpeech.csprojAssemblyReference.cache
