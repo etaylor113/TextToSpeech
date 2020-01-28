@@ -17,3 +17,4 @@ C:\Users\evan\Desktop\Languages\C#\Misc Apps\TextToSpeech\bin\Debug\TextToSpeech
 C:\Users\evan\Desktop\Languages\C#\Misc Apps\TextToSpeech\bin\Debug\TextToSpeech.pdb
 C:\Users\evan\Desktop\Languages\C#\Misc Apps\TextToSpeech\obj\Debug\TextToSpeech.exe
 C:\Users\evan\Desktop\Languages\C#\Misc Apps\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\evan\Desktop\Languages\C#\Misc Apps\TextToSpeech\obj\Debug\TextToSpeech.csprojAssemblyReference.cache

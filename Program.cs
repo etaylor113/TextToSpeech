@@ -9,6 +9,7 @@ using System.Speech.Synthesis;
 using System.Threading;
 using System.Runtime.InteropServices;
 using System.Diagnostics;
+using System.Reflection;
 
 namespace TextToSpeech
 {
@@ -24,7 +25,7 @@ namespace TextToSpeech
                     // Clear window
                     Console.Clear();
 
-                    //Console.WriteLine($"Current Version: {}");
+                    Console.WriteLine($"Current Version: {FileVersionInfo.GetVersionInfo(Assembly.GetExecutingAssembly().Location).FileVersion}");
 
                     // Get text to say
                     Console.Write("\n Enter text to say: ");
